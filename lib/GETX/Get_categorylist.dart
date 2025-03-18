@@ -3,13 +3,23 @@ import 'package:get/get.dart';
 
 class Get_CategoryList extends GetxController {
   List<String> Category_list = [
-    'business',
-    'entertainment',
-    'general',
-    'health',
-    'science',
-    'sports',
-    'technology',
+    "Business",
+    "Crime",
+    "Domestic",
+    "Education",
+    "Entertainment",
+    "Environment",
+    "Food",
+    "Health",
+    "Lifestyle",
+    "Other",
+    "Politics",
+    "Science",
+    "Sports",
+    "Technology",
+    "Top",
+    "Tourism",
+    "World"
   ];
   final PageController pagecontroller = PageController();
   RxInt current_index = 0.obs;

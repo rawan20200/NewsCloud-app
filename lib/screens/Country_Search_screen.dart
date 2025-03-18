@@ -4,7 +4,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:newsapp/GETX/Get_News_Api.dart';
 import 'package:newsapp/screens/News_Screen.dart';
 import 'package:newsapp/customs/CustomTextField.dart';
-import 'package:newsapp/GETX/Get_searchProvider.dart';
+import 'package:newsapp/GETX/Get_searchfield.dart';
 
 class HomePage extends StatelessWidget {
   HomePage({super.key});

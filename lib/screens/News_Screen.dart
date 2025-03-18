@@ -4,7 +4,7 @@ import 'package:newsapp/GETX/Get_News_Api.dart';
 import 'package:newsapp/screens/Country_Search_screen.dart';
 import 'package:newsapp/customs/category_view.dart';
 import 'package:newsapp/customs/CustomPageView.dart';
-import 'package:newsapp/GETX/Get_searchProvider.dart';
+import 'package:newsapp/GETX/Get_searchfield.dart';
 import 'package:newsapp/GETX/Get_categorylist.dart';
 import 'package:newsapp/GETX/Get_newscontroller.dart';
 
